@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '相対性理論'
-copyright = '2024, アルベルト・アインスタイン, 石原純訳'
-author = 'アルベルト・アインスタイン, 石原純訳'
+project = 'サンプル文書'
+copyright = '2024, すぐりふひと'
+author = 'すぐりふひと'
 release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------

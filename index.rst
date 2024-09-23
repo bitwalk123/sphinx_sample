@@ -1,10 +1,10 @@
-.. 相対性理論 documentation master file, created by
-   sphinx-quickstart on Mon Sep 23 08:57:16 2024.
+.. サンプル文書 documentation master file, created by
+   sphinx-quickstart on Mon Sep 23 12:12:52 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-相対性理論 documentation
-========================
+サンプル文書 documentation
+==========================
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
